@@ -3,7 +3,7 @@ A Simple Shopping card with html and css
 
 [## Demo](http://mgarebaghi.ir/shopcard/) 
 
-![alt text](https://github.com/The-LoneWolf/shopcard-css/raw/master/index.png "A Screenshot of card")
+<img src="https://github.com/The-LoneWolf/shopcard-css/raw/master/index.png">
 
 ### Based On 
 1. [Samim-Font](https://github.com/rastikerdar/samim-font) 
